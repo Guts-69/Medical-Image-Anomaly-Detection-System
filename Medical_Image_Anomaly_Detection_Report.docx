@@ -1,0 +1,55 @@
+# Medical Image Anomaly Detection Report
+
+## Abstract
+This document presents a comprehensive report on Medical Image Anomaly Detection. It outlines the significance of anomaly detection in medical images, provides a systematic survey of existing literature, and elaborates on the methods employed for addressing this critical area in healthcare.
+
+## Introduction
+Medical imaging plays a pivotal role in diagnosing various health conditions. The ability to detect anomalies in these images quickly and accurately can significantly impact patient outcomes. This section introduces the concept of anomaly detection in medical images and its importance.
+
+## Literature Survey
+This section reviews the current methodologies and technologies used in medical image anomaly detection, discussing their advantages and limitations.
+
+## System Requirements
+### Hardware Requirements
+- Minimum requirements for processing medical images
+
+### Software Requirements
+- List of required software tools and libraries
+
+## Proposed Approach
+The proposed approach for anomaly detection is discussed in this section. It includes the following:
+### Preprocessing
+```python
+# Example code snippet for data preprocessing
+import cv2
+
+def preprocess_image(image):
+    # Preprocessing steps
+    return processed_image
+```
+### Training
+```python
+# Example code snippet for training
+from keras.models import Sequential
+model = Sequential()
+# Build and compile model
+```
+## U-Net Segmentation Architecture
+This section outlines the architecture of the U-Net model used for segmentation tasks, including diagrams and explanations of each component.
+
+## Implementation Details
+Details of how the model is implemented including datasets used, training parameters, and other specifics necessary for reproducibility.
+
+## Experimental Results
+### Placeholder for Results
+- Insert data and figures capturing the results of experiments conducted
+
+## Conclusion
+This section summarizes the findings and the potential future directions of research in medical image anomaly detection.
+
+## Appendix
+### A. Additional Resources
+### B. References
+- Placeholder for any references used in the document.
+
+---
